@@ -9,7 +9,10 @@
  * that are in the cycle shop.
  */
 public class Cycle {
-    public static void main (String()args) {
-
+    public static void main (String[]args){
+        int b = 10;
+        int x = 37;
+        int sum = x + b;
+        System.out.println(x + b);
     }
 }
