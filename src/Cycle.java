@@ -9,5 +9,7 @@
  * that are in the cycle shop.
  */
 public class Cycle {
-    public static void main (String ()args);
+    public static void main (String()args) {
+
+    }
 }
