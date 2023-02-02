@@ -2,7 +2,7 @@
  * @Class: Stamps
  * @Author: Michaela Haney
  * @Version: 1.0
- * @Course: ITEC 2140 Spring 2023
+ * @Course: ITEC 2140- 05, Spring 2023
  * @Written: 30 January 2023
  * Description - Write a program that
  * calculates the difference
