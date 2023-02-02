@@ -11,7 +11,7 @@
  */
 
 public class Stamps {
-    public static void main (String[]args){
+    public static void main (String()args){
         int s = 8;
         int j = 40;
         int difference;
